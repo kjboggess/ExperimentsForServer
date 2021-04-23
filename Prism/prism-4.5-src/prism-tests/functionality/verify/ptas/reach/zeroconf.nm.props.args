@@ -1,4 +1,0 @@
--ptamethod digital -e 1e-8
--ptamethod digital -e 1e-8 -ex
--ptamethod games
--ptamethod backwards
